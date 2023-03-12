@@ -1,5 +1,5 @@
 
-float TIME[node][node][node]=
+float TIME[node][node][node]=(1/4)
 {
 	
 {
