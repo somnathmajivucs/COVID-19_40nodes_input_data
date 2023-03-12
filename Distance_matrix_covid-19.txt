@@ -1,4 +1,4 @@
-float DISTANCE[node][node][node]=
+float DISTANCE[node][node][node]=(1/4)
 {
 	
 {
